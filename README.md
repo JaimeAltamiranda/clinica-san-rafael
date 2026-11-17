@@ -11,7 +11,7 @@ de datos clinica_db en PostgreSQL (10 tablas en Tercera Forma Normal).
 ## Equipo
 | Integrante | Rol |
 |---|---|
-| José Zorrilla | Product Owner y desarrolladora |
+| José Zorrilla | Product Owner y desarrollador |
 | Jaime Altamiranda | Scrum Master y desarrollador |
 | Elías Martínez | Desarrollador |
 | Bryan Ríos | Desarrollador |

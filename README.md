@@ -11,10 +11,10 @@ de datos clinica_db en PostgreSQL (10 tablas en Tercera Forma Normal).
 ## Equipo
 | Integrante | Rol |
 |---|---|
-| Misshell Flores | Product Owner y desarrolladora |
+| José Zorrilla | Product Owner y desarrolladora |
 | Jaime Altamiranda | Scrum Master y desarrollador |
 | Elías Martínez | Desarrollador |
-| Eduardo Gómez | Desarrollador |
+| Bryan Ríos | Desarrollador |
 
 ## Metodología
 Scrum, con 6 sprints de 2 semanas (2 de noviembre de 2026 al 12 de
